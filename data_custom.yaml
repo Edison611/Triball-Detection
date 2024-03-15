@@ -1,0 +1,7 @@
+path: ./
+train: ./train
+val: ./val
+
+nc: 3
+
+names: ["triball", "blue_triball", "red_triball"]
